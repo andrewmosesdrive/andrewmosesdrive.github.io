@@ -2,6 +2,17 @@ nav {
     margin-bottom: 40px;
 }
 
+h1, h5 {
+    color: white;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+p {
+    color: white;
+}
 
 .social {
     font-size: medium;
@@ -12,17 +23,3 @@ nav {
     
 }
 
-@media screen and (max-width: 992px) {
-    .img-margin {
-        margin-bottom: 20px;
-    }
-} 
-
-
-@media screen and (max-width: 576px) {
-    .img-margin {
-        display: flex; 
-        justify-content: space-around;
-        margin-bottom: 40px;
-    }
-}
