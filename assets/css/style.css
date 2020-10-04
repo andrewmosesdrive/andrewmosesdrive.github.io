@@ -2,17 +2,23 @@ nav {
     margin-bottom: 40px;
 }
 
+.link {
+    color: white;
+}
+
 h1, h5, h3 {
     color: white;
 }
 
 h1 {
     margin-bottom: 20px;
+    
 }
 
-h3 {
+/* h3 {
     text-align: center;
-}
+} */
+
 
 p {
     color: white;
